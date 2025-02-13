@@ -1,5 +1,5 @@
 **STICK TRAINING**
-*Last 10 have to be in a row. All supers start with 2MK or 2MP
+*Last 10 have to be in a row. All supers start with a cancellable normal.
 
 - 50x  Hadoken
 - [ ] Left
@@ -42,11 +42,10 @@
 - [ ] Right
 - 100x Shippu Jinrai-kyaku
 - [ ] Left
-- [ ] Right - 30
+- [ ] Right
 - 100x Shinryu Reppa
 - [ ] Left
-- [ ] Right - 90
+- [ ] Right
 - 100x Parry Drive Rush
 - [ ] Left
 - [ ] Right
-
