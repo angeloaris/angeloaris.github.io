@@ -1,0 +1,52 @@
+**STICK TRAINING**
+*Last 10 have to be in a row. All supers start with 2MK or 2MP
+
+- 50x  Hadoken
+- [ ] Left
+- [ ] Right
+- 50x OD Hadoken
+- [ ] Left
+- [ ] Right
+- 50x Jinrai Kicks
+- [ ] Left
+- [ ] Right
+- 50x OD Jinrai Kicks
+- [ ] Left
+- [ ] Right
+- 50x Tatsumaki
+- [ ] Left
+- [ ] Right
+- 50x OD Tatsumaki
+- [ ] Left
+- [ ] Right
+-  50x Air Tatsumaki
+- [ ] Left
+- [ ] Right
+- 50x OD Air Tatsumaki
+- [ ] Left
+- [ ] Right
+- 100x Dragonlash Kicks
+- [ ] Left
+- [ ] Right
+- OD 100x Dragonlash Kicks
+- [ ] Left
+- [ ] Right
+- 100x Shoryuken
+- [ ] Left
+- [ ] Right
+- 100x OD Shoryuken
+- [ ] Left
+- [ ] Right
+- 100x Dragonlash Flame
+- [ ] Left
+- [ ] Right
+- 100x Shippu Jinrai-kyaku
+- [ ] Left
+- [ ] Right - 30
+- 100x Shinryu Reppa
+- [ ] Left
+- [ ] Right - 90
+- 100x Parry Drive Rush
+- [ ] Left
+- [ ] Right
+
